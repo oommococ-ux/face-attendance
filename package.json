@@ -1,0 +1,8 @@
+{
+  "name": "face-attendance",
+  "version": "1.0.0",
+  "description": "ระบบเช็คชื่อด้วยการแสกนหน้า + หลังบ้าน + QR ต่อห้อง + รองรับ ESP32",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
